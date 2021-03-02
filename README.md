@@ -22,4 +22,9 @@ _You need install:_
 * Step 2: Clear dataset
 * * In the `yes` folder, you need to delete _bad images_ (real people, castle, etc.)
 * * After cleaning I have 2259 images in `yes` folder
-* Step 3:
+* Step 3: Split images
+* * aaa
+* Step 4: Learn CNN model
+* * aaa
+* Step 5: Check model
+* * aaa
