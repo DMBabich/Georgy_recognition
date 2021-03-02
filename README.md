@@ -23,8 +23,13 @@ _You need install:_
 * * In the `yes` folder, you need to delete _bad images_ (real people, castle, etc.)
 * * After cleaning I have 2259 images in `yes` folder
 * Step 3: Split images
-* * aaa
+* * Run [Split images notebook](https://github.com/DMBabich/Georgy_recognition/blob/main/Split_images.ipynb)
+* * When you start this notebook, all data will be split at `70% / 30%`. _This is required to create a training and test dataset._
+* * Will created 2 folder: `train` _(for train dataset)_ and `test` _(for test dataset)_
 * Step 4: Learn CNN model
-* * aaa
+* * Run [Softmax model copy](https://github.com/DMBabich/Georgy_recognition/blob/main/Softmax_model-Copy1.ipynb)
+* * On this step, we create and train convolutional neural network. We use `datagen` because have small data. <br>After train model, we __plot accuracy and loss__.
+* * ![smooth accuracy](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-acc.png)
+* * ![smooth loss](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-loss-150.png)
 * Step 5: Check model
 * * aaa
