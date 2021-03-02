@@ -35,4 +35,9 @@ _You need install:_
 * * Run [Example notebook](https://github.com/DMBabich/Georgy_recognition/blob/main/Examples.ipynb)
 * * In this notebook, we test our model with our data. We are using images from the `example` folder. <br>Notebook uses class predictions. The forecast value will be printed in the last cell
 Finally, after all the steps, you will have the following structure:
-![after all steps](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/after_all_steps.jpg)
+<br>![after all steps](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/after_all_steps.jpg)
+***
+## Links
++ [Poetry](https://python-poetry.org/docs/cli/)
++ [My compiled and trained model](https://drive.google.com/drive/folders/1NFOEC5Zpuu3izriM83Max26_ws3JoVs5?usp=sharing)
++ [Task](https://enterideas.com/testcv)
