@@ -32,4 +32,7 @@ _You need install:_
 * * ![smooth accuracy](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-acc.png)
 * * ![smooth loss](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-loss-150.png)
 * Step 5: Check model
-* * aaa
+* * Run [Example notebook](https://github.com/DMBabich/Georgy_recognition/blob/main/Examples.ipynb)
+* * In this notebook, we test our model with our data. We are using images from the `example` folder. <br>Notebook uses class predictions. The forecast value will be printed in the last cell
+Finally, after all the steps, you will have the following structure:
+![after all steps](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/after_all_steps.jpg)
