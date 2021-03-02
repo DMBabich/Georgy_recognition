@@ -29,8 +29,8 @@ _You need install:_
 * Step 4: Learn CNN model
 * * Run [Softmax model copy](https://github.com/DMBabich/Georgy_recognition/blob/main/Softmax_model-Copy1.ipynb)
 * * On this step, we create and train convolutional neural network. We use `datagen` because have small data. <br>After train model, we __plot accuracy and loss__.
-* * ![smooth accuracy](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-acc.png)
-* * ![smooth loss](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-loss-150.png)
+![smooth accuracy](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-acc.png)
+![smooth loss](https://github.com/DMBabich/Georgy_recognition/blob/main/plot_img/smooth-Model_softmax-loss-150.png)
 * Step 5: Check model
 * * Run [Example notebook](https://github.com/DMBabich/Georgy_recognition/blob/main/Examples.ipynb)
 * * In this notebook, we test our model with our data. We are using images from the `example` folder. <br>Notebook uses class predictions. The forecast value will be printed in the last cell
