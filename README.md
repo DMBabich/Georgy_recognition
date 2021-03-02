@@ -17,4 +17,9 @@ _You need install:_
 ***
 ## Repeat: Step by step
 * Step 1: Download images from csv file
-* * Run 
+* * Run [Download images notebook](https://github.com/DMBabich/Georgy_recognition/blob/main/Download_images.ipynb)
+* * When you do this, the notebook will create 2 folders: <br>`yes` _(all 2681 images with George)_ and `no` _(all 3366 images without George)._
+* Step 2: Clear dataset
+* * In the `yes` folder, you need to delete _bad images_ (real people, castle, etc.)
+* * After cleaning I have 2259 images in `yes` folder
+* Step 3:
